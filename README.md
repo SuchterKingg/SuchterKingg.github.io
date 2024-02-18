@@ -1,2 +1,1 @@
-# SuchterKingg.github.io
-FiveM Script docs
+# KingDevelopement logs
